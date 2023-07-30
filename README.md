@@ -15,6 +15,4 @@ The following commands are implemented:
 - reset
 - merge
 
-This was a class project of mine and was created completely from scratch with ZERO starter code.
-I cannot show the code that I wrote in this public repository because future students could find
-and copy it
+This was a class project of mine and was created completely from scratch with ZERO starter code. Unfortunately, I cannot show the code that I wrote in this public repository because future students might find and copy it.
