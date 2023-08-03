@@ -1,4 +1,4 @@
-# Git_Clone_Demo
+# Git_Clone
 This repo contains a video demo of the git clone that I made.
 
 The following commands are implemented:
