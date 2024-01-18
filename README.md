@@ -1,5 +1,5 @@
 # Git_Clone
-This repo contains a video demo of the git clone that I made.
+This repository contains a video demo of the git clone that I made.
 
 The following commands are implemented:
 
@@ -15,4 +15,4 @@ The following commands are implemented:
 - reset
 - merge
 
-This was a class project of mine and was created completely from scratch with ZERO starter code. Unfortunately, I cannot show the code that I wrote in this public repository because future students might find and copy it.
+This was a class project of mine and was created completely from scratch with no starter code. Unfortunately, I cannot show the code that I wrote in this public repository because future students might come across it.
